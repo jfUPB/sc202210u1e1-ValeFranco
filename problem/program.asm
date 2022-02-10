@@ -6,8 +6,6 @@
 //valor final = 24575
 //Input = 24576
   
-
-
 @16384 
 D=A
 @R1
